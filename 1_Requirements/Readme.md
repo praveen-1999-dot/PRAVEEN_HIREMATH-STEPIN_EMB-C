@@ -3,7 +3,8 @@
  This is the embedded project named as "SEAT HEAT MONITORING SYSTEM". The main theme of this project is to heat the seat by sensing the atmosphere temperature and activating the heater to specified range for the temperature input and deisplaying the heated temperature using the dispaly.
 
 ## Research
-![Description](Link to Pic)/
+![Description](Link to Pic)
+
  **Features of the project**
   - jk;b.nk
   - hjbk
