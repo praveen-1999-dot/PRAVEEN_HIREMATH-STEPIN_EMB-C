@@ -4,8 +4,10 @@
 
 ## Research
 ![Description](Link to Pic)/
-+*Features of the project--
-+*jk;b.nk
+ **Features of the project**
+  - jk;b.nk
+  - hjbk
+   
 ## Cost and Features and Timeline
 ![Description](Link to Pic)
 -- Content 
