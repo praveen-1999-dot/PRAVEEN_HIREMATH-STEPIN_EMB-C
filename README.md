@@ -1,1 +1,2 @@
 # PRAVEEN_HIREMATH-STEPIN_EMB-C
+  This is the embedded based project named as "SEAT HEAT MONITORING SYSTEM IN AUTOMOBILES".
