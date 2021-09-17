@@ -1,14 +1,16 @@
 # Requirements
 ## Introduction
-Monitoring is one of the major things of our project. In this technology, it is used to determine the presence of the passenger and if the passenger exists then our system starts the functionality. So nowadays everything is becoming automated and everyone is looking for new products to make life easier. In our project, the main aim is to design and develop a system that is capable of monitoring the passenger's existence and Heat Monitoring and Displaying.
+  Now a days we are using the embedded system in many fields to induce the intelligence into the system.This project is about heat monitoring system using the embedded system.
+  In cold countries like europian continent cold is more,so there is necessity of heater in the vehicle to heat the seat.This technology  is used to determine the presence of    the passenger and if the passenger is present  then  system starts the functionality. In our project, main aim  is monitoring the passenger's existence and Heat the seat and Displaying the heated temperature.
 
 ## Features
--  Its capable of determining weather the user is exist or not in the vehicle.
--  If Passanger was existed in the vehicle it will gives the indication.
--  After the indication it will determine the heat.
+-  The system will check whether passenger is seated on the seat otr not.
+-  If seated A, it will sense the temperature,based on that it activates the heater to produce required temperature.
 -  Driver and the passanger can have the access to modifying the temperature in the vehicle.
--  The passanger can modify the temperature by watching the display as the display is given in the system
--  Modular Based Programming.
+-  The passanger can modify the temperature by watching the display as the display.
+-  It is best for cold Countries.
+-  Lower cost and robust system.
+-  Modula based Approach.
 
 ## SWOT Analysis- Strengths, and Weakness, Opportunities Threats
 ### Strengths
@@ -19,7 +21,7 @@ Monitoring is one of the major things of our project. In this technology, it is 
 -  User Friendly.
 
 ### Weakness
-- It's only applicable for the countries which are having having low temperature.
+- It's only applicable for cold countries.
 
 ### Opportunities
 - It can be implemented by replacing heater by air conditioners so that it will be helpful in all the countries.
